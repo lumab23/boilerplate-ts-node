@@ -30,11 +30,11 @@ README.md           # Documentation
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/lumab23/node-ts-boilerplate.git
+   git clone https://github.com/lumab23/boilerplate-ts-node.git
    ```
 2. Navigate into the project directory:
    ```sh
-   cd node-ts-boilerplate
+   cd boilerplate-ts-node
    ```
 3. Install dependencies:
    ```sh
